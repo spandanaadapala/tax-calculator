@@ -5,4 +5,4 @@
 npm install
 
 ### Running Testes
-nmp test
+npm test
