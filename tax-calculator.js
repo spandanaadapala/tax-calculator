@@ -16,7 +16,7 @@ const getSuperRate = (year) => {
         { "year": 2023, "super": 10.5 },
         { "year": 2024, "super": 11 },
         { "year": 2025, "super": 11.5 },
-        { "year": 2025, "super": 12 },
+        { "year": 2026, "super": 12 },
     ];
     return superData.find(data => data.year === year);
 }
