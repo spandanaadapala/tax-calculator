@@ -1,0 +1,15 @@
+{
+  "name": "tax-calculator",
+  "version": "1.0.0",
+  "description": "Incometax calculatro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
